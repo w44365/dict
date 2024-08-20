@@ -1,5 +1,7 @@
 # Từ điển Anh - Việt
 
-## R
+## I
+- inertia: quán tính
 
+## R
 - reaction force: phản lực
