@@ -1,2 +1,5 @@
-# dict
-Từ điển Anh - Việt
+# Từ điển Anh - Việt
+
+## R
+
+- reaction force: phản lực
